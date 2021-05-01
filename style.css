@@ -1,0 +1,45 @@
+body{
+  background-color: rgba(250, 235, 215, 0.8)!important;
+  font-family: 'Overpass', sans-serif;
+  line-height:200%;
+  text-align: center;
+}
+
+
+.card{
+  padding-top: 2rem;
+  text-align: center;
+  margin: 2.5rem;
+}
+
+
+.row{
+  padding: 1rem;
+  text-align: center;
+}
+
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 48px;  /* Preferred icon size */
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+
+  /* Support for all WebKit browsers. */
+  -webkit-font-smoothing: antialiased;
+  /* Support for Safari and Chrome. */
+  text-rendering: optimizeLegibility;
+
+  /* Support for Firefox. */
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Support for IE. */
+  font-feature-settings: 'liga';
+}
+
